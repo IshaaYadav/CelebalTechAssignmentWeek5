@@ -9,8 +9,8 @@ import os
 
 # 📁 Paths
 DATA_DIR = "data"
-TRAIN_PATH = os.path.join(DATA_DIR, "train.csv")
-TEST_PATH = os.path.join(DATA_DIR, "test.csv")
+TRAIN_PATH = os.path.join(DATA_DIR, "C:\Users\ISHA\OneDrive\Documents\GitHub\CelebalTechAssignmentWeek5\test.csv")
+TEST_PATH = os.path.join(DATA_DIR, "C:\Users\ISHA\OneDrive\Documents\GitHub\CelebalTechAssignmentWeek5\train.csv")
 
 # ✅ Create folders if they don't exist
 os.makedirs("visuals", exist_ok=True)
