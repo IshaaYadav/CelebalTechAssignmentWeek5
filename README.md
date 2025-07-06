@@ -47,8 +47,7 @@ house-price-preprocessing/  <br>
 ---
 
 ## 📊 Visuals Included
-
-- ![`missing_values_barplot.png`](visuals/missing_values_barplot.png) 
+![`missing_values_barplot.png`](visuals/missing_values_barplot.png) 
   → A barplot of top missing-value columns (before imputation)
 
 ---
